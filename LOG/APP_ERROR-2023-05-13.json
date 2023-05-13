@@ -1,0 +1,2 @@
+{"context":"MongooseModule","level":"error","message":"Unable to connect to the database. Retrying (1)...","stack":[""],"timestamp":"2023-05-13 02:19:52.266 AM"}
+{"context":"MongooseModule","level":"error","message":"Unable to connect to the database. Retrying (2)...","stack":[""],"timestamp":"2023-05-13 02:19:56.148 AM"}

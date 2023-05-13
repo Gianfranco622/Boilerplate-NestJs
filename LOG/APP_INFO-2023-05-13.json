@@ -1,0 +1,116 @@
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","timestamp":"2023-05-13 01:32:55.158 AM"}
+{"context":"InstanceLoader","level":"info","message":"PrometheusModule dependencies initialized","timestamp":"2023-05-13 01:32:55.171 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2023-05-13 01:32:55.172 AM"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","timestamp":"2023-05-13 01:32:55.173 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","timestamp":"2023-05-13 01:32:55.174 AM"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","timestamp":"2023-05-13 01:32:55.350 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","timestamp":"2023-05-13 01:32:55.352 AM"}
+{"context":"RoutesResolver","level":"info","message":"PrometheusController {/metrics}:","timestamp":"2023-05-13 01:32:55.353 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/metrics, GET} route","timestamp":"2023-05-13 01:32:55.354 AM"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","timestamp":"2023-05-13 01:32:55.357 AM"}
+{"context":"bootstrap","level":"info","message":"Aplication Listening : http://[::1]:3001","timestamp":"2023-05-13 01:32:55.362 AM"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","timestamp":"2023-05-13 01:38:11.703 AM"}
+{"context":"InstanceLoader","level":"info","message":"PrometheusModule dependencies initialized","timestamp":"2023-05-13 01:38:11.716 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2023-05-13 01:38:11.717 AM"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","timestamp":"2023-05-13 01:38:11.718 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","timestamp":"2023-05-13 01:38:11.718 AM"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","timestamp":"2023-05-13 01:38:11.890 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","timestamp":"2023-05-13 01:38:11.892 AM"}
+{"context":"RoutesResolver","level":"info","message":"PrometheusController {/metrics}:","timestamp":"2023-05-13 01:38:11.893 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/metrics, GET} route","timestamp":"2023-05-13 01:38:11.894 AM"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","timestamp":"2023-05-13 01:38:11.897 AM"}
+{"context":"bootstrap","level":"info","message":"Aplication Listening : http://[::1]:3001","timestamp":"2023-05-13 01:38:11.900 AM"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","timestamp":"2023-05-13 01:40:35.531 AM"}
+{"context":"InstanceLoader","level":"info","message":"PrometheusModule dependencies initialized","timestamp":"2023-05-13 01:40:35.543 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2023-05-13 01:40:35.544 AM"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","timestamp":"2023-05-13 01:40:35.545 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","timestamp":"2023-05-13 01:40:35.545 AM"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","timestamp":"2023-05-13 01:40:35.717 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","timestamp":"2023-05-13 01:40:35.719 AM"}
+{"context":"RoutesResolver","level":"info","message":"PrometheusController {/metrics}:","timestamp":"2023-05-13 01:40:35.719 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/metrics, GET} route","timestamp":"2023-05-13 01:40:35.720 AM"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","timestamp":"2023-05-13 01:40:35.723 AM"}
+{"context":"bootstrap","level":"info","message":"Aplication Listening : http://[::1]:3001","timestamp":"2023-05-13 01:40:35.727 AM"}
+{"context":"HttpLoggingInterceptor","level":"info","message":"[GET] | / | 200  | size 12 |  delay 3.577ms -  ::1","timestamp":"2023-05-13 01:42:04.454 AM"}
+{"context":"HttpLoggingInterceptor","level":"info","message":"[GET] | / | 200  | size 12 |  delay 0.5294ms -  ::1","timestamp":"2023-05-13 01:42:26.717 AM"}
+{"context":"HttpLoggingInterceptor","level":"info","message":"[GET] | /dots | 404  | size 67 |  delay 1.6219999999999999ms -  ::1","timestamp":"2023-05-13 01:43:30.501 AM"}
+{"context":"HttpLoggingInterceptor","level":"info","message":"[GET] | /favicon.ico | 404  | size 74 |  delay 1.0953ms -  ::1","timestamp":"2023-05-13 01:43:30.630 AM"}
+{"context":"HttpLoggingInterceptor","level":"info","message":"[GET] | /images/icons/gear.png | 404  | size 84 |  delay 0.46909999999999996ms -  ::1","timestamp":"2023-05-13 01:43:30.678 AM"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","timestamp":"2023-05-13 01:48:39.826 AM"}
+{"context":"InstanceLoader","level":"info","message":"PrometheusModule dependencies initialized","timestamp":"2023-05-13 01:48:39.839 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2023-05-13 01:48:39.839 AM"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","timestamp":"2023-05-13 01:48:39.840 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","timestamp":"2023-05-13 01:48:39.841 AM"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","timestamp":"2023-05-13 01:48:40.012 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","timestamp":"2023-05-13 01:48:40.015 AM"}
+{"context":"RoutesResolver","level":"info","message":"PrometheusController {/metrics}:","timestamp":"2023-05-13 01:48:40.015 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/metrics, GET} route","timestamp":"2023-05-13 01:48:40.016 AM"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","timestamp":"2023-05-13 01:48:40.019 AM"}
+{"context":"bootstrap","level":"info","message":"Aplication Listening : http://[::1]:3001","timestamp":"2023-05-13 01:48:40.022 AM"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","timestamp":"2023-05-13 01:48:45.369 AM"}
+{"context":"InstanceLoader","level":"info","message":"PrometheusModule dependencies initialized","timestamp":"2023-05-13 01:48:45.382 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2023-05-13 01:48:45.383 AM"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","timestamp":"2023-05-13 01:48:45.383 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","timestamp":"2023-05-13 01:48:45.384 AM"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","timestamp":"2023-05-13 01:48:45.559 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","timestamp":"2023-05-13 01:48:45.561 AM"}
+{"context":"RoutesResolver","level":"info","message":"PrometheusController {/metrics}:","timestamp":"2023-05-13 01:48:45.562 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/metrics, GET} route","timestamp":"2023-05-13 01:48:45.563 AM"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","timestamp":"2023-05-13 01:48:45.566 AM"}
+{"context":"bootstrap","level":"info","message":"Aplication Listening : http://[::1]:3001","timestamp":"2023-05-13 01:48:45.569 AM"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","timestamp":"2023-05-13 01:53:51.164 AM"}
+{"context":"InstanceLoader","level":"info","message":"PrometheusModule dependencies initialized","timestamp":"2023-05-13 01:53:51.177 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2023-05-13 01:53:51.178 AM"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","timestamp":"2023-05-13 01:53:51.178 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","timestamp":"2023-05-13 01:53:51.179 AM"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","timestamp":"2023-05-13 01:53:51.354 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","timestamp":"2023-05-13 01:53:51.356 AM"}
+{"context":"RoutesResolver","level":"info","message":"PrometheusController {/metrics}:","timestamp":"2023-05-13 01:53:51.357 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/metrics, GET} route","timestamp":"2023-05-13 01:53:51.358 AM"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","timestamp":"2023-05-13 01:53:51.361 AM"}
+{"context":"bootstrap","level":"info","message":"Aplication Listening : http://[::1]:3001","timestamp":"2023-05-13 01:53:51.364 AM"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","timestamp":"2023-05-13 01:53:57.461 AM"}
+{"context":"InstanceLoader","level":"info","message":"PrometheusModule dependencies initialized","timestamp":"2023-05-13 01:53:57.474 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2023-05-13 01:53:57.475 AM"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","timestamp":"2023-05-13 01:53:57.475 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","timestamp":"2023-05-13 01:53:57.476 AM"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","timestamp":"2023-05-13 01:53:57.685 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","timestamp":"2023-05-13 01:53:57.687 AM"}
+{"context":"RoutesResolver","level":"info","message":"PrometheusController {/metrics}:","timestamp":"2023-05-13 01:53:57.687 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/metrics, GET} route","timestamp":"2023-05-13 01:53:57.688 AM"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","timestamp":"2023-05-13 01:53:57.691 AM"}
+{"context":"bootstrap","level":"info","message":"Aplication Listening : http://[::1]:3001","timestamp":"2023-05-13 01:53:57.694 AM"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","timestamp":"2023-05-13 02:18:39.973 AM"}
+{"context":"InstanceLoader","level":"info","message":"MongooseModule dependencies initialized","timestamp":"2023-05-13 02:18:40.000 AM"}
+{"context":"InstanceLoader","level":"info","message":"PrometheusModule dependencies initialized","timestamp":"2023-05-13 02:18:40.001 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2023-05-13 02:18:40.001 AM"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","timestamp":"2023-05-13 02:18:40.002 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","timestamp":"2023-05-13 02:18:40.002 AM"}
+{"context":"InstanceLoader","level":"info","message":"MongooseCoreModule dependencies initialized","timestamp":"2023-05-13 02:18:41.208 AM"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","timestamp":"2023-05-13 02:18:41.373 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","timestamp":"2023-05-13 02:18:41.376 AM"}
+{"context":"RoutesResolver","level":"info","message":"PrometheusController {/metrics}:","timestamp":"2023-05-13 02:18:41.377 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/metrics, GET} route","timestamp":"2023-05-13 02:18:41.378 AM"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","timestamp":"2023-05-13 02:18:41.380 AM"}
+{"context":"bootstrap","level":"info","message":"Aplication Listening : http://[::1]:3001","timestamp":"2023-05-13 02:18:41.384 AM"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","timestamp":"2023-05-13 02:18:46.088 AM"}
+{"context":"InstanceLoader","level":"info","message":"MongooseModule dependencies initialized","timestamp":"2023-05-13 02:18:46.110 AM"}
+{"context":"InstanceLoader","level":"info","message":"PrometheusModule dependencies initialized","timestamp":"2023-05-13 02:18:46.111 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2023-05-13 02:18:46.112 AM"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","timestamp":"2023-05-13 02:18:46.112 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","timestamp":"2023-05-13 02:18:46.112 AM"}
+{"context":"InstanceLoader","level":"info","message":"MongooseCoreModule dependencies initialized","timestamp":"2023-05-13 02:18:47.137 AM"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","timestamp":"2023-05-13 02:18:47.308 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","timestamp":"2023-05-13 02:18:47.310 AM"}
+{"context":"RoutesResolver","level":"info","message":"PrometheusController {/metrics}:","timestamp":"2023-05-13 02:18:47.311 AM"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/metrics, GET} route","timestamp":"2023-05-13 02:18:47.312 AM"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","timestamp":"2023-05-13 02:18:47.315 AM"}
+{"context":"bootstrap","level":"info","message":"Aplication Listening : http://[::1]:3001","timestamp":"2023-05-13 02:18:47.318 AM"}
+{"context":"NestFactory","level":"info","message":"Starting Nest application...","timestamp":"2023-05-13 02:19:51.260 AM"}
+{"context":"InstanceLoader","level":"info","message":"MongooseModule dependencies initialized","timestamp":"2023-05-13 02:19:51.283 AM"}
+{"context":"InstanceLoader","level":"info","message":"PrometheusModule dependencies initialized","timestamp":"2023-05-13 02:19:51.284 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2023-05-13 02:19:51.284 AM"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized","timestamp":"2023-05-13 02:19:51.285 AM"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized","timestamp":"2023-05-13 02:19:51.286 AM"}
+{"context":"MongooseModule","level":"error","message":"Unable to connect to the database. Retrying (1)...","stack":[""],"timestamp":"2023-05-13 02:19:52.266 AM"}
+{"context":"MongooseModule","level":"error","message":"Unable to connect to the database. Retrying (2)...","stack":[""],"timestamp":"2023-05-13 02:19:56.148 AM"}
